@@ -4,7 +4,7 @@ using namespace std;
 int main() {
   int x;
 
-  cout << "Enter an whole no : ";
+  cout << "Enter an natural no : ";
   cin >> x;
 
   if ( x % 2 == 0)
